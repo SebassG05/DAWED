@@ -3,11 +3,11 @@
 
 Formatos de Texto
 
-Estilo Sintaxis Resultado Negrita ** ** o __ __ Negrita Cursiva * * o _ _ Cursiva Tachado ~~ ~~ Equivocado Cursiva y negrita ** ** y _ _ Importante Cursiva y negrita *** *** Importante Subíndice Es un subíndice Superíndice Es un superíndice Notas 1 1 1 El fútbol…
+Estilo Sintaxis Resultado Negrita ** ** o __ __ 𝐚𝐝𝐫𝐠𝐞𝐭𝐯𝐟 Negrita Cursiva * * o _ _ 𝒂𝒅𝒓𝒈𝒆𝒕𝒗𝒇 Cursiva Tachado ~~ ~~ Equivocado Cursiva y negrita ** ** y _ _ Importante Cursiva y negrita *** *** Importante Subíndice Es un subíndice Superíndice Es un superíndice Notas 1 1 1 El fútbol…
 
 Imágenes ![Esto es un comentario breve de la imagen](https://emojiterra.com/es/puno-cerrado/)👊
 
-Gifs Se puede añadir gifs así: :emojicode: Por ejemplo: :+1: es (pulgar hacia arriba)
+Gifs Se puede añadir gifs así: :emojicode: Por ejemplo: :+1: es (pulgar hacia arriba)👍
 
 3 .gitignore
 
